@@ -1,183 +1,21 @@
 
 let jocks = [
     {
-        "category": "Programming",
-        "type": "single",
-        "joke": "ASCII silly question, get a silly ANSI.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 25,
-        "safe": true,
-        "lang": "en"
+        "joke": "थप्पड मारने पर नाराज वाईफ से हसबंड बोला:  ...आदमी उसी को मारता है जिससे वो प्यार करता है.   ..वाईफ ने हसबंड को 2 थप्पड मारे और बोली  ...आप क्या समझते है मै                          आपसे प्यार नही करती ... 😆🤣😋😉",
     },
     {
-        "category": "Programming",
-        "type": "single",
-        "joke": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 41,
-        "safe": true,
-        "lang": "en"
+        "joke": "पत्नी के जन्मदिन पर पति ने पूछा: तुम्हें क्या गिफ्ट चाहिए? पत्नी की इच्छा नई कार लेने की थी। उसने इशारों में कहा: मुझे ऐसी चीज लेकर दो जिस पर मेरे सवार होते ही वो 2 सेकेंड में 0 से 80 पर पहुंच जाए। शाम को पति ने उसे वजन कांटा लाकर दे दिया। पत्नी अभी भी बेहोश है।"
     },
     {
-        "category": "Programming",
-        "type": "single",
-        "joke": "The generation of random numbers is too important to be left to chance.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 39,
-        "safe": true,
-        "lang": "en"
+        "joke":  "शादी के दो दिन बाद दूल्हा उस ब्यूटी पार्लर में गया जहां से उसकी बीवी ने शादी के लिए मेकअप करवाया था उसने पार्लर वाली मैडम को आईफोन 7 गिफ्ट किया और थैंक्यू बोलकर चला                         आया मैडम ने खुशी खुशी आईफोन का डब्बा खोला तो उसमें नोकिया 1100 पड़ा था साथ में एक पर्ची भी थी जिस पर लिखा था मुझे भी ऐसा ही महसूस हुआ था😆🤣😋😉 ",
     },
     {
-        "category": "Programming",
-        "type": "single",
-        "joke": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 4,
-        "safe": true,
-        "lang": "en"
+        "joke": "लड़की वालें लड़का देखनें गये...\nलड़की वालें: हमें ऐसा लड़का चाहिए जो,\nकुछ खाता पीता ना हो\nऔर कुछ गलत काम ना करता हो।।\nपंडित जी: फिर तो आपको ऐसा लड़का,\nअस्पताल के ICU वार्ड में मिलेंगा।।"
     },
     
     {
-        "category": "Programming",
-        "type": "single",
-        "joke": "\"We messed up the keming again guys.\"",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 20,
-        "safe": true,
-        "lang": "en"
+        "joke": "थप्पड मारने पर नाराज वाईफ से हसबंड बोला:  ...आदमी उसी को मारता है जिससे वो प्यार करता है.   ..वाईफ ने हसबंड को 2 थप्पड मारे और बोली  ...आप क्या समझते है मै                          आपसे प्यार नही करती ... 😆🤣😋😉",
     },
-    {
-        "category": "Programming",
-        "type": "single",
-        "joke": "Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.",
-        "flags": {
-            "nsfw": true,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": true
-        },
-        "id": 30,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Programming",
-        "type": "single",
-        "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 27,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Programming",
-        "type": "single",
-        "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 22,
-        "safe": true,
-        "lang": "en"
-    },
-    {
-        "category": "Programming",
-        "type": "single",
-        "joke": "ASCII silly question, get a silly ANSI.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 25,
-        "safe": true,
-        "lang": "en"
-    },
-    {
-        "category": "Programming",
-        "type": "single",
-        "joke": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 45,
-        "safe": true,
-        "lang": "en"
-    },
-
-    {
-        "category": "Misc",
-        "type": "single",
-        "joke": "Two reasons I don't give money to homeless people.\n1) They are going to spend it all on drugs and alcohol\n2) I am going to spend it all on drugs and alcohol.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 72,
-        "safe": false,
-        "lang": "en"
-    }
 ]
 
 
